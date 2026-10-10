@@ -1,5 +1,17 @@
 # ManosSeguras — Semana 10: Persistencia Local (Offline-First)
 
+**Integrantes:**
+
+- Cardenas Carrasco Leonardo
+- Vitorino Duran Davis Shumager
+- Quispe Dávila Jose Jose
+- Yabar Latorre Gonzalo Eduardo
+
+**Tablero Scrum (Trello):** https://trello.com/b/jU9rwkSB/manosseguras-sprint-semana-10
+
+**Repositorio:** https://github.com/leocardenas0409/manos_seguras_semana10
+
+
 Proyecto Flutter del **proyecto integrador** de **SIS048 – Desarrollo de Software II**
 (Universidad Andina del Cusco, semestre 2026-II), correspondiente a la
 **Unidad de Aprendizaje II: Arquitectura Limpia, Persistencia y Gestión de
