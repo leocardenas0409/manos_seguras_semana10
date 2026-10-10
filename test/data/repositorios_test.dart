@@ -96,7 +96,7 @@ void main() {
   // -----------------------------------------------------------------
   group('Esquema y migraciones', () {
     test('la versión del esquema es la esperada', () {
-      expect(base.schemaVersion, 1);
+      expect(base.schemaVersion, 2);
     });
 
     test('las claves foráneas se activan en beforeOpen (Reto 5)', () async {

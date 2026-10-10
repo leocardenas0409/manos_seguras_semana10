@@ -14,6 +14,8 @@ analyzer:
     # lo produce build_runner y no es código escrito por el estudiante.
     - "**/*.g.dart"
     - build/**
+    - windows/**
+    - web/**
   errors:
     # Un import sin usar suele indicar código que quedó de una versión
     # anterior; se trata como error para que no llegue a la entrega.
