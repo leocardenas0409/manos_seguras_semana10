@@ -179,3 +179,5 @@ como no presentado**.
   Structure*. Prentice Hall.
 - Organización Mundial de la Salud. (2026). *Global Health Observatory:
   indicador WSH_HYGIENE_BASIC*. https://www.who.int/data/gho
+
+Diagramas A.1 y A.5: Vitorino Duran, Davis Shumager
